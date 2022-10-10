@@ -1,0 +1,15 @@
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/obj/Debug/net6.0/Exposicion Matrices.csproj.AssemblyReference.cache
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/obj/Debug/net6.0/Exposicion Matrices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/obj/Debug/net6.0/Exposicion Matrices.AssemblyInfoInputs.cache
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/obj/Debug/net6.0/Exposicion Matrices.AssemblyInfo.cs
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/obj/Debug/net6.0/Exposicion Matrices.csproj.CoreCompileInputs.cache
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/bin/Debug/net6.0/Exposicion Matrices
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/bin/Debug/net6.0/Exposicion Matrices.deps.json
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/bin/Debug/net6.0/Exposicion Matrices.runtimeconfig.json
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/bin/Debug/net6.0/Exposicion Matrices.dll
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/bin/Debug/net6.0/Exposicion Matrices.pdb
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/obj/Debug/net6.0/Exposicion Matrices.dll
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/obj/Debug/net6.0/refint/Exposicion Matrices.dll
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/obj/Debug/net6.0/Exposicion Matrices.pdb
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/obj/Debug/net6.0/Exposicion Matrices.genruntimeconfig.cache
+/Users/iselfranco/Desktop/INGENIERIA EN SISTEMAS/SEGUNDO SEMESTRE/ALGORITMOS/Tareas/Exposicion Matrices/obj/Debug/net6.0/ref/Exposicion Matrices.dll
